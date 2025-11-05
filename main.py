@@ -399,7 +399,7 @@ def main():
             plot_grouped_bar(age_gender_summary, tgt, title, outp)
             print(f"[Saved] {outp}")
 
-    print("✅ Done.")
+    print("Done.")
 
 if __name__ == "__main__":
     main()
